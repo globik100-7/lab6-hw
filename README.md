@@ -61,3 +61,9 @@ void main()
 <img width="576" height="783" alt="image" src="https://github.com/user-attachments/assets/8e30a08a-7302-4685-a995-8c3755c1612e" />
 
 
+<h2>Консоль</h2>
+
+<img width="308" height="52" alt="image" src="https://github.com/user-attachments/assets/2618171d-afa3-4584-aa9e-29feb89b028e" />
+
+
+
